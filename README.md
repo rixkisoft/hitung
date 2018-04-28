@@ -1,4 +1,4 @@
-[logo]: https://github.com/rixkisoft/hitung/tree/master/doc/hitung.png "Hitung"
+[logo]: https://github.com/rixkisoft/hitung/blob/master/doc/hitung.png?raw=true "Hitung"
 
 ![alt text][logo]
 # Hitung
