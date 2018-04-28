@@ -1,5 +1,6 @@
 [logo]: https://github.com/rixkisoft/hitung/tree/master/doc/hitung.png "Hitung"
 
+![alt text][logo]
 # Hitung
 Menghitung mudah menggunakan fungsi hitung.
 
